@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋 ![Profile views](https://komarev.com/ghpvc/?username=dedicated407)
 <!--
 **Dedicated407/Dedicated407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
