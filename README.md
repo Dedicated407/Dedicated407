@@ -1,4 +1,8 @@
 ### Hi there 👋 ![Profile views](https://komarev.com/ghpvc/?username=dedicated407)
+
+## Codewars
+
+![Code wars](https://www.codewars.com/users/Dedicated407/badges/large)
 <!--
 **Dedicated407/Dedicated407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
