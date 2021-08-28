@@ -1,4 +1,12 @@
-### Hi there 👋 ![Profile views](https://komarev.com/ghpvc/?username=dedicated407)
+### Hi everyone 👋 ![Profile views](https://komarev.com/ghpvc/?username=dedicated407)
+#I am glad to see you in my profile. You can find all the necessary information about me below.
+
+- 🔭 I am currently working on a bot for Telegram that will help me in my life:
+      -- Will show my schedule at the university.
+      -- Will keep useful links.
+      -- Will forward important messages from the mail.
+- 🌱 I’m currently learning C#
+- 📫 Email me: tsypin.i.p@mail.ru
 
 ## 📈 My Stats
 
