@@ -1,5 +1,11 @@
 ### Hi there 👋 ![Profile views](https://komarev.com/ghpvc/?username=dedicated407)
 
+## 📈 My Stats
+
+[![Dedicated407's GitHub stats](https://github-readme-stats.vercel.app/api?username=dedicated407&count_private=true&show_icons=true&hide=contribs&title_color=2F7FEC&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dedicated407&count_private=true&langs_count=8&layout=compact&title_color=2F7FEC&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&theme=cobalt)
+
 ## Codewars
 
 ![Code wars](https://www.codewars.com/users/Dedicated407/badges/large)
