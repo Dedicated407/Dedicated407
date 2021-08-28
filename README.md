@@ -1,18 +1,20 @@
-### Hi everyone 👋 ![Profile views](https://komarev.com/ghpvc/?username=dedicated407)
-#I am glad to see you in my profile. You can find all the necessary information about me below.
+# Hi everyone 👋 ![Profile views](https://komarev.com/ghpvc/?username=dedicated407)
+#### I am glad to see you in my profile. You can find all the necessary information about me below.
 
 - 🔭 I am currently working on a bot for Telegram that will help me in my life:
-      -- Will show my schedule at the university.
-      -- Will keep useful links.
-      -- Will forward important messages from the mail.
+
+      Will show my schedule at the university.
+      Will keep useful links.
+      Will forward important messages from the mail.
+
 - 🌱 I’m currently learning C#
 - 📫 Email me: tsypin.i.p@mail.ru
 
-## 📈 My Stats
-
-[![Dedicated407's GitHub stats](https://github-readme-stats.vercel.app/api?username=dedicated407&count_private=true&show_icons=true&hide=contribs&title_color=2F7FEC&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+***
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dedicated407&count_private=true&langs_count=8&layout=compact&title_color=2F7FEC&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&theme=cobalt)
+
+***
 
 ## Codewars
 
