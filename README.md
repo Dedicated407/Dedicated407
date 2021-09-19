@@ -6,8 +6,6 @@
 
 ***
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dedicated407&count_private=true&langs_count=8&layout=compact&title_color=2F7FEC&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&theme=cobalt)
-
 ***
 
 ## Codewars
