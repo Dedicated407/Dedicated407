@@ -1,4 +1,4 @@
-# Hi everyone 👋 ![Profile views](https://komarev.com/ghpvc/?username=dedicated407)
+# Hi everyone 👋
 #### I am glad to see you in my profile. You can find all the necessary information about me below.
 
 - 🌱 I’m currently learning C#, Kotlin
