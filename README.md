@@ -7,12 +7,12 @@
 ## Codewars
 
 ![Code wars](https://www.codewars.com/users/Dedicated407/badges/large)
-<!--
+
 ***
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dedicated407&count_private=false&langs_count=8&layout=compact&title_color=2F7FEC&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&theme=cobalt)
 
-***
+<!--
 
 **Dedicated407/Dedicated407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
